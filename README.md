@@ -27,7 +27,7 @@ print(result)
 #RegisterNumber: 212224110042
 ```
 ## Output:
-<img width="1259" height="323" alt="image" src="https://github.com/user-attachments/assets/4c10f9a3-a8e5-476c-a779-8e1162635398" />
+<img width="1494" height="836" alt="Screenshot 2025-08-25 230620" src="https://github.com/user-attachments/assets/9b1b24f8-6f7c-4ae8-bfab-ae6131e5ea3e" />
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
